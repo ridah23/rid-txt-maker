@@ -62,7 +62,7 @@ rid-api.textpro("https://textpro.me/create-realistic-vintage-style-light-bulb-10
 });
 ```
 
-#### Interest More Textpro Examples? Check [Here!](https://github.com/ridah23/rid-txt-maker/textpro-examples/textpro-ex.js)
+#### Interest More Textpro Examples? Check [Here!](https://github.com/ridah23/rid-txt-maker/blob/main/textpro-examples/textpro-ex.js)
 
 ##
 
