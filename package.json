@@ -1,5 +1,5 @@
 {
-  "name": "textmaker-yasii",
+  "name": "rid-txt-maker",
   "version": "1.0.0",
   "description": "Unofficial API Wrapper for Textpro, Photooxy and Instagram Post.",
   "main": "src/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sl-Yasia/textmaker-yasii.git"
+    "url": "git+https://github.com/ridah23/rid-txt-maker.git"
   },
   "author": "",
   "license": "GNU",
@@ -27,7 +27,7 @@
   },
   "devDependencies": {},
   "bugs": {
-    "url": "https://github.com/Sl-Yasia/textmaker-yasii/issues"
+    "url": "https://github.com/ridah23/rid-txt-maker/issues"
   },
-  "homepage": "https://github.com/Sl-Yasia/textmaker-yasii#readme"
+  "homepage": "https://github.com/ridah23/rid-txt-maker#readme"
 }
