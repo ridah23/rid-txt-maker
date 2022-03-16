@@ -1,6 +1,5 @@
 # Textpro - Photooxy - Instagram Graphql Unlimited API
 
-##
 This api can handle thousands of requests. Also its completely free
 and unlimited resources. 
 
