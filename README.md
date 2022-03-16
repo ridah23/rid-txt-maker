@@ -9,7 +9,7 @@ and unlimited resources.
 
 ## 📦 NPM Installation
 
-`npm i textmaker-yasii`
+`npm i rid-txt-maker`
 
 ##
 
@@ -18,9 +18,9 @@ and unlimited resources.
 ### Textpro 1
 
 ```js
-const yasiapi = require('textmaker-yasii'); // Import NPM Package
+const rid-api = require('rid-txt-maker'); // Import NPM Package
 
-yasiapi.textpro("<textpro_html>",
+rid-api.textpro("<textpro_html>",
     // "Message One" (One Message)
     // ["Message One"], ["Message Two"] (Two Message)
     ).then(async (data) => { 
@@ -35,10 +35,10 @@ yasiapi.textpro("<textpro_html>",
 ### Textpro 2 ( Real Usage With One Message )
 
 ```js
-const yasiapi = require('textmaker-yasii');
+const rid-api = require('rid-txt-maker');
 
-yasiapi.textpro("https://textpro.me/create-neon-devil-wings-text-effect-online-free-1014.html",
-    "Sl-Yasia"
+rid-api.textpro("https://textpro.me/create-neon-devil-wings-text-effect-online-free-1014.html",
+    "RID"
     ).then(async (data) => { 
       try { 
           console.log(data)
@@ -51,10 +51,10 @@ yasiapi.textpro("https://textpro.me/create-neon-devil-wings-text-effect-online-f
 ### Textpro 3 ( Real Usage With Two Message )
 
 ```js
-const yasiapi = require('textmaker-yasii');
+const rid-api = require('rid-txt-maker');
 
-yasiapi.textpro("https://textpro.me/create-realistic-vintage-style-light-bulb-1000.html",
-    ["Developer"], ["Sl-Yasia"]
+rid-api.textpro("https://textpro.me/create-realistic-vintage-style-light-bulb-1000.html",
+    ["Developer"], ["Rid"]
     ).then(async (data) => { 
       try { 
           console.log(data)
@@ -64,16 +64,16 @@ yasiapi.textpro("https://textpro.me/create-realistic-vintage-style-light-bulb-10
 });
 ```
 
-#### Interest More Textpro Examples? Check [Here!](https://github.com/Sl-Yasia/EPhoto-360/blob/e473cce16294794d967d10362b9a848b69387ace/textpro-examples/textpro-ex.js)
+#### Interest More Textpro Examples? Check [Here!](https://github.com/ridah23/EPhoto-360/blob/e473cce16294794d967d10362b9a848b69387ace/textpro-examples/textpro-ex.js)
 
 ##
 
 ### Photooxy 1
 
 ```js
-const yasiapi = require('textmaker-yasii'); // Import NPM Package
+const rid-api = require('rid-txt-maker'); // Import NPM Package
 
-yasiapi.photooxy("<photooxy_html>",
+rid-api.photooxy("<photooxy_html>",
     // "Message One" (One Message)
     // ["Message One"], ["Message Two"] (Two Message)
     ).then(async (data) => { 
@@ -88,10 +88,10 @@ yasiapi.photooxy("<photooxy_html>",
 ### Photooxy 2 ( Real Usage With One Message )
 
 ```js
-const yasiapi = require('textmaker-yasii');
+const rid-api = require('rid-txt-maker');
 
-yasiapi.photooxy("https://photooxy.com/logo-and-text-effects/shadow-text-effect-in-the-sky-394.html",
-    "Sl-Yasia"
+rid-api.photooxy("https://photooxy.com/logo-and-text-effects/shadow-text-effect-in-the-sky-394.html",
+    "RID"
     ).then(async (data) => { 
       try { 
           console.log(data)
@@ -104,10 +104,10 @@ yasiapi.photooxy("https://photooxy.com/logo-and-text-effects/shadow-text-effect-
 ### Photooxy 3 ( Real Usage With Two Message )
 
 ```js
-const yasiapi = require('textmaker-yasii'); 
+const rid-api = require('rid-txt-maker'); 
 
-yasiapi.photooxy("https://photooxy.com/logo-and-text-effects/make-tik-tok-text-effect-375.html",
-    ["Developer"], ["Sl-Yasia"] 
+rid-api.photooxy("https://photooxy.com/logo-and-text-effects/make-tik-tok-text-effect-375.html",
+    ["Developer"], ["RID"] 
     ).then(async (data) => { 
       try { 
           console.log(data)
@@ -120,9 +120,9 @@ yasiapi.photooxy("https://photooxy.com/logo-and-text-effects/make-tik-tok-text-e
 ### Instagram Post 1 
 
 ```js                                                                      
-const yasiapi = require('textmaker-yasii')
+const rid-api = require('rid-txt-maker')
 
-yasiapi.instagram("<instagram_post_link>"
+rid-api.instagram("<instagram_post_link>"
     ).then(async (dat) => {
     try { 
         console.log(dat) // Raw Response
@@ -138,9 +138,9 @@ yasiapi.instagram("<instagram_post_link>"
 ### Instagram Post ( Real Usage With Responses )
 
 ```js
-const yasiapi = require('textmaker-yasii')
+const rid-api = require('rid-txt-maker')
 
-yasiapi.instagram("https://www.instagram.com/p/CO9PC9DFDCz/?utm_medium=copy_link"
+rid-api.instagram("https://www.instagram.com/p/CO9PC9DFDCz/?utm_medium=copy_link"
     ).then(async (dat) => {
     try { 
         console.log(dat) // 1
