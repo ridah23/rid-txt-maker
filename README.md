@@ -1,6 +1,5 @@
 # Textpro - Photooxy - Instagram Graphql Unlimited API
 
-### Only [QueenJesi](github.com/Sl-Yasia/Queen-Jesi) Users Can Use This API ⚠️
 ##
 This api can handle thousands of requests. Also its completely free
 and unlimited resources. 
